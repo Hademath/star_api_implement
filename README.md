@@ -18,3 +18,9 @@ You are to create a SPA (single page application) using html, CSS and JavaScript
 
 5. When you are done, host on heroku or netlify (link should be added to your turned in field on Teams)
 
+  <div class="column">
+                <h1 class="row rowname" id="${elementRow[i]}"> ${apiresult[i]['name']}</h1>
+               
+             
+             
+                </div> 
